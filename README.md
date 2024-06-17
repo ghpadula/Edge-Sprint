@@ -1,4 +1,11 @@
 # Sistema de Monitoramento de Temperatura
+# Nomes
+
+## Rodrigo H M Nakata 556417
+## Gabriel Henrique Padula 554907
+## Enzo Gaião Real 557943
+## Gustavo Pasquini Lucas 555454
+## Vitor Couto Victorino 554965
 
 ## Descrição
 
