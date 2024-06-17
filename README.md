@@ -6,7 +6,7 @@
 ## Enzo Gaião Real 557943
 ## Gustavo Pasquini Lucas 555454
 ## Vitor Couto Victorino 554965
-
+# Link : https://wokwi.com/projects/400329683937423361
 ## Descrição
 
 Esse projeto tem como principal função mostrar para o piloto do carro a temperatura atual de suas rodas, caso esteja acima ou abaixo da temperatura correta ele ira acender um led e avisar no lcd.
